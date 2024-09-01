@@ -1,7 +1,7 @@
 # introduction to git 
 
 Liverpool
-MUN
+MUNgitn
 some text here...
 
 
