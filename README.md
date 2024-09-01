@@ -1,5 +1,5 @@
 # introduction to git 
-Haile
+
 some text here...
 
 
